@@ -1,5 +1,4 @@
 package main;
-
 // unsolved
 public class ValidNumber {
 
