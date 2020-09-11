@@ -1,7 +1,8 @@
 # Leetcode
-#Todo List
 
-#Array
+# Todo List
+
+# Array
 
 <br/>Two Sum - https://leetcode.com/problems/two-sum/
 <br/>Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
@@ -13,14 +14,14 @@
 <br/>Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/
 <br/>3Sum - https://leetcode.com/problems/3sum/
 <br/>Container With Most Water - https://leetcode.com/problems/container-with-most-water/
-#Binary
+# Binary
 
 <br/>Sum of Two Integers - https://leetcode.com/problems/sum-of-two-integers/
 <br/>Number of 1 Bits - https://leetcode.com/problems/number-of-1-bits/
 <br/>Counting Bits - https://leetcode.com/problems/counting-bits/
 <br/>Missing Number - https://leetcode.com/problems/missing-number/
 <br/>Reverse Bits - https://leetcode.com/problems/reverse-bits/
-#Dynamic Programming
+# Dynamic Programming
 
 <br/>Climbing Stairs - https://leetcode.com/problems/climbing-stairs/
 <br/>Coin Change - https://leetcode.com/problems/coin-change/
@@ -33,7 +34,7 @@
 <br/>Decode Ways - https://leetcode.com/problems/decode-ways/
 <br/>Unique Paths - https://leetcode.com/problems/unique-paths/
 <br/>Jump Game - https://leetcode.com/problems/jump-game/
-#Graph
+# Graph
 
 <br/>Clone Graph - https://leetcode.com/problems/clone-graph/
 <br/>Course Schedule - https://leetcode.com/problems/course-schedule/
@@ -43,14 +44,14 @@
 <br/>Alien Dictionary (Leetcode Premium) - https://leetcode.com/problems/alien-dictionary/
 <br/>Graph Valid Tree (Leetcode Premium) - https://leetcode.com/problems/graph-valid-tree/
 <br/>Number of Connected Components in an Undirected Graph (Leetcode Premium) - https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
-#Interval
+# Interval
 
 <br/>Insert Interval - https://leetcode.com/problems/insert-interval/
 <br/>Merge Intervals - https://leetcode.com/problems/merge-intervals/
 <br/>Non-overlapping Intervals - https://leetcode.com/problems/non-overlapping-intervals/
 <br/>Meeting Rooms (Leetcode Premium) - https://leetcode.com/problems/meeting-rooms/
 <br/>Meeting Rooms II (Leetcode Premium) - https://leetcode.com/problems/meeting-rooms-ii/
-#Linked List
+# Linked List
 
 <br/>Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
 <br/>Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
@@ -58,13 +59,13 @@
 <br/>Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
 <br/>Remove Nth Node From End Of List - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 <br/>Reorder List - https://leetcode.com/problems/reorder-list/
-#Matrix
+# Matrix
 
 <br/>Set Matrix Zeroes - https://leetcode.com/problems/set-matrix-zeroes/
 <br/>Spiral Matrix - https://leetcode.com/problems/spiral-matrix/
 <br/>Rotate Image - https://leetcode.com/problems/rotate-image/
 <br/>Word Search - https://leetcode.com/problems/word-search/
-#String
+# String
 
 <br/>Longest Substring Without Repeating Characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/
 <br/>Longest Repeating Character Replacement - https://leetcode.com/problems/longest-repeating-character-replacement/
@@ -76,7 +77,7 @@
 <br/>Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/
 <br/>Palindromic Substrings - https://leetcode.com/problems/palindromic-substrings/
 <br/>Encode and Decode Strings (Leetcode Premium) - https://leetcode.com/problems/encode-and-decode-strings/
-#Tree
+# Tree
 
 <br/>Maximum Depth of Binary Tree - https://leetcode.com/problems/maximum-depth-of-binary-tree/
 <br/>Same Tree - https://leetcode.com/problems/same-tree/
@@ -92,7 +93,7 @@
 <br/>Implement Trie (Prefix Tree) - https://leetcode.com/problems/implement-trie-prefix-tree/
 <br/>Add and Search Word - https://leetcode.com/problems/add-and-search-word-data-structure-design/
 <br/>Word Search II - https://leetcode.com/problems/word-search-ii/
-#Heap
+# Heap
 
 <br/>Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
 <br/>Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/
