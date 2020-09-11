@@ -1,12 +1,16 @@
 package arrays;
 
+import java.util.ArrayList;
+
 /**
  * https://leetcode.com/problems/product-of-array-except-self/
  */
 public class ProductOfArrayExceptSelf {
 
     public int[] productExceptSelf(int[] nums) {
+
         int len = nums.length;
+
         int ans[] = new int[len];
 
         ans[0] = 1;
