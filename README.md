@@ -1,5 +1,3 @@
-# Leetcode
-
 # Todo List
 
 # Array
