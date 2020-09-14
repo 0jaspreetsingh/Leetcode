@@ -93,6 +93,6 @@
 <br/>Word Search II - https://leetcode.com/problems/word-search-ii/
 # Heap
 
-<br/>Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
+<br/>:heavy_check_mark: Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
 <br/>Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/
 <br/>Find Median from Data Stream - https://leetcode.com/problems/find-median-from-data-stream/
