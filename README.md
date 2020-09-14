@@ -77,7 +77,7 @@
 <br/>Encode and Decode Strings (Leetcode Premium) - https://leetcode.com/problems/encode-and-decode-strings/
 # Tree
 
-<br/>Maximum Depth of Binary Tree - https://leetcode.com/problems/maximum-depth-of-binary-tree/
+<br/>:heavy_check_mark: Maximum Depth of Binary Tree - https://leetcode.com/problems/maximum-depth-of-binary-tree/
 <br/>Same Tree - https://leetcode.com/problems/same-tree/
 <br/>Invert/Flip Binary Tree - https://leetcode.com/problems/invert-binary-tree/
 <br/>Binary Tree Maximum Path Sum - https://leetcode.com/problems/binary-tree-maximum-path-sum/
