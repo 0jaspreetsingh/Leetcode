@@ -51,7 +51,7 @@
 <br/>Meeting Rooms II (Leetcode Premium) - https://leetcode.com/problems/meeting-rooms-ii/
 # Linked List
 
-<br/>Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
+<br/>:heavy_check_mark: Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
 <br/>Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
 <br/>Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
 <br/>Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
