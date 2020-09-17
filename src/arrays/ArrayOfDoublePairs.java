@@ -28,12 +28,10 @@ public class ArrayOfDoublePairs {
                     hs.put(arr[i], hs.get(arr[i]) - 1);
                     hs.put(arr[i] * 2, hs.get(arr[i] * 2) - 1);
                 } else {
-
                     return false;
                 }
             }
         }
-
         return true;
     }
 
