@@ -61,6 +61,9 @@ public class SearchRotatedArray {
         int pivot = -1;
         loop:
         for (int i = 0; i < len - 1; i++) {
+            if (nums[i] == target) {
+                return true;
+            }
             if (nums[i] > nums[i + 1]) {
                 pivot = i;
                 break loop;
