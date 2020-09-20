@@ -86,6 +86,33 @@ public class MaxSumAnyPremutation {
 //***************************
 
 
+    /**
+     * similar problem
+     * 1109. Corporate Flight Bookings
+     * https://leetcode.com/problems/corporate-flight-bookings/
+     *
+     * @param bookings
+     * @param n
+     * @return
+     */
+    public int[] corpFlightBookings(int[][] bookings, int n) {
+        int len = bookings.length;
+        int arr[] = new int[n];
+        for (int i = 0; i < len; i++) {
+            arr[bookings[i][0] - 1] += bookings[i][2];
+            if (bookings[i][1] < n) {
+                arr[bookings[i][1]] -= bookings[i][2];
+            }
+        }
+        for (int i = 1; i < n; i++) {
+            arr[i] += arr[i - 1];
+        }
+        return arr;
+    }
+
+    //**************************************************************
+
+
     public static void main(String[] args) {
         int nums[] = {1, 2, 3, 4, 5, 10}, requests[][] = {{0, 2}, {1, 3}, {1, 1}};
         MaxSumAnyPremutation ms = new MaxSumAnyPremutation();
