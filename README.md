@@ -21,7 +21,7 @@
 <br/>Reverse Bits - https://leetcode.com/problems/reverse-bits/
 # Dynamic Programming
 
-<br/>Climbing Stairs - https://leetcode.com/problems/climbing-stairs/
+<br/>:heavy_check_mark: Climbing Stairs - https://leetcode.com/problems/climbing-stairs/
 <br/>Coin Change - https://leetcode.com/problems/coin-change/
 <br/>Longest Increasing Subsequence - https://leetcode.com/problems/longest-increasing-subsequence/
 <br/>Longest Common Subsequence -
