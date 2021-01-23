@@ -2,7 +2,7 @@ package arrays;
 
 /**
  * https://leetcode.com/problems/break-a-palindrome/
- * commit test
+ *
  */
 public class BreakPalindrome {
 
