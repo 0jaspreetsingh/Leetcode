@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * https://leetcode.com/problems/coloring-a-border/
  */
-public class ColorAborder {
+public class ColorBorder {
 
     int row[] = {-1, 0, +1, 0};
     int col[] = {0, +1, 0, -1};
