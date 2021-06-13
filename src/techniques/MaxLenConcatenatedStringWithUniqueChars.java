@@ -11,7 +11,6 @@ public class MaxLenConcatenatedStringWithUniqueChars {
     public int maxLength(List<String> arr) {
         List<Integer> dp = new ArrayList<Integer>();
         dp.add(0);
-        1239. Maximum Length of a Concatenated String with Unique Characters
         int ans = 0;
         for (String s : arr) {
             int a = 0, dup = 0;
