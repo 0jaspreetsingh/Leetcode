@@ -1,7 +1,6 @@
 package arrays;
 
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.HashMap;
 
 /**
  * https://leetcode.com/problems/count-number-of-nice-subarrays/
@@ -9,26 +8,16 @@ import java.util.Queue;
 public class CountNumberofNiceSubarrays {
 
     public int numberOfSubarrays(int[] nums, int k) {
-        Queue<Integer> q = new LinkedList<>();
+        HashMap<Integer, Integer> hm = new HashMap<>();
+        hm.put(0, 1);
+        int curr = 0, ans = 0;
         for (int i = 0; i < nums.length; i++) {
-            nums[i] = nums[i] % 2;
-            if (nums[i] == 1) {
-                q.add(i);
-            }
+            curr += nums[i] % 2;
+            hm.put(curr, hm.getOrDefault(curr, 0) + 1);
+            ans += hm.getOrDefault(curr - k, 0);
         }
-        int count = 0, left = 0, right = 0;
-        int kk = 0;
 
-        while (left <= right) {
-            kk += right;
-            if (kk == k) count++;
-            else if (kk > k) {
-                left = q.poll();
-                kk--;
-            } else if (right < 2) {
+        return ans;
 
-            }
-        }
-        return count;
     }
 }

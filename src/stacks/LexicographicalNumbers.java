@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
+/**
+ * https://leetcode.com/problems/lexicographical-numbers/
+ */
 public class LexicographicalNumbers {
 
     public List<Integer> lexicalOrder(int n) {
