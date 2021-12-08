@@ -1,6 +1,5 @@
 package CompanyQuestions;
 
-import com.sun.javafx.binding.StringFormatter;
 
 public class BuildPalindrome {
 
