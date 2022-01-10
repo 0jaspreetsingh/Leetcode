@@ -14,6 +14,7 @@ public class ArrayOfDoublePairs {
             arr[i] = A[i];
         }
 
+
         Arrays.sort(arr, Comparator.comparingInt(Math::abs));
         HashMap<Integer, Integer> hs = new HashMap<>();
         for (int i : A) {
