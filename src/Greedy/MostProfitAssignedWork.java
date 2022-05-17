@@ -21,7 +21,7 @@ public class MostProfitAssignedWork {
             return "profit: " + profit + " difficulty: " + difficulty;
         }
     }
-
+// test
     public int maxProfitAssignment(int[] difficulty, int[] profit, int[] worker) {
         int size = difficulty.length;
         Work[] workList = new Work[size];
